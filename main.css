@@ -1,0 +1,154 @@
+*{
+  margin: 0;
+  
+}
+
+nav {
+    background-color: black;
+    padding: 10px 0px;
+    
+    
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    padding-right: 35%;
+
+}
+
+#begin {
+    color: white;
+    flex-grow: 4;
+    text-align: left;
+    font-size: 1cm;
+    padding-left: 2%;
+    padding-right: 7%;
+}
+
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 6px 30px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size:1.2cm;
+    
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .date {
+    background-color: rgb(174, 170, 170);
+    width: 600px;
+    border-style: solid;
+    padding: 10px;
+    margin: auto;
+    height: 10px;
+}
+
+.picture_1 {
+    display: flex;
+    position: absolute;
+    margin-left:400px;
+    width:250px;
+    height: 150px;
+}
+
+.picture_2 {
+    display: flex;
+    position: absolute;
+    margin-left:400px;
+    width:250px;
+    height: 150px;
+}
+.picture_3 {
+    display: flex;
+    position: absolute;
+    margin-left:400px;
+    width:250px;
+    height: 150px;
+}
+.picture_4 {
+    display: flex;
+    position: absolute;
+    margin-left:400px;
+    width:250px;
+    height: 150px;
+}
+
+
+#show_1 {
+    text-align: center;
+    line-height: 25px;
+    text-align-last: start;  
+    padding-left: 600px;
+    
+}
+
+#show_1 button {
+    background-color: coral;
+    color: antiquewhite;
+    margin-left: 600px;
+    padding: 25px 50px;
+    font-size: large;
+    
+    
+}
+
+#show_2 {
+    text-align: center;
+    line-height: 25px;
+    text-align-last: start;  
+    padding-left: 600px;
+}
+
+#show_2 button {
+    background-color: coral;
+    color: antiquewhite;
+    margin-left: 600px;
+    padding: 25px 50px ;
+    font-size: large;
+}
+#show_3 {
+    text-align: center;
+    line-height: 25px;
+    text-align-last: start;  
+    padding-left: 600px;
+}
+
+#show_3 button {
+    background-color: coral;
+    color: antiquewhite;
+    margin-left: 600px;
+    padding: 25px 50px ;
+    font-size: large;
+}
+
+#show_4 {
+    text-align: center;
+    line-height: 25px;
+    text-align-last: start;  
+    padding-left: 600px;
+
+}
+
+#show_4 button {
+    background-color: coral;
+    color: antiquewhite;
+    margin-left: 600px;
+    padding: 25px 50px ;
+    font-size: large;
+}
+
